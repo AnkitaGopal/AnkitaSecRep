@@ -1,1 +1,1 @@
-echo "first merge file in develop branch"
+echo " file in develop branch"
