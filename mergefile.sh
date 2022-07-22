@@ -1,1 +1,1 @@
-echo "second merge conflict file in feature/mergeconflicts branch"
+echo "first merge conflict file in feature/mergeconflicts branch"
