@@ -1,0 +1,1 @@
+echo "second merge conflict file in feature/mergeconflicts branch"
