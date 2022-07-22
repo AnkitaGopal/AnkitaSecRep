@@ -1,1 +1,1 @@
-echo "trying out merge conflict: develop branch"
+echo "trying out merge conflict: feature/merge1 branch"
